@@ -17,6 +17,9 @@ int main(){// braces in C++ are used to organize logical blocks of code
 
     cout << "Hello" << " world" << "!" << endl;
    
+   //Our output statement 
+    cout << "This is team one!" << endl;
+    
     return 0;   // This is required in the main function, indicating 
                 // that the main() function terminated correctly
 } // This ends the main() function block
